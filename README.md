@@ -1,0 +1,1 @@
+This is a front-end application I have built using HTML, CSS and JavaScript. It can be used to search for any movie from the search bar and all movies called with the same name or similar to the movie search will be returned to the user and displayed on the screen.
